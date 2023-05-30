@@ -1,2 +1,0 @@
-# TarekSoft
-Tarek Soft Logiciel
